@@ -1,5 +1,4 @@
-# WebCrackExtension
-WebCrack Extension
+# WebCrack Extension!
 ## Inspiration
 Driven by the unique challenges immigrants and international students face in English-speaking countries, we were motivated to launch a bias tracker Chrome extension tailored for ESL (English as a Second Language) individuals. Grappling with language barriers is hard enough, and the added complexity of identifying bias and objective reporting in a non-native language can be overwhelming. Recognizing this, our mission is to empower ESL individuals to sift through information confidently, liberated from the linguistic veils that might mask bias. In today’s digital age, where misinformation is uncontrollable, our tool becomes not just helpful but essential for ESL speakers. We are committed to enabling them to assess the content they come across critically. By providing the means to recognize bias, our platform does more than just improve language proficiency; it provides them with the critical thinking skills needed to traverse the complex digital information landscape. This is not just a tool; it is an incentive for empowerment designed to enhance linguistic abilities and intellectual perception in the face of bias.
 
