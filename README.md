@@ -20,4 +20,5 @@ We learned how to use LangChain and OpenAI in combination with prompt engineerin
 
 ## What's next for WebCrack
 To improve our project further, we’d like to create a feature that gets additional information from other sources in order to find stronger inclinations for bias and gives the user more background on the article subject and author. Additionally, we’d like to add on a stronger, more streamlined, recommender system that gives similar articles to the user that offer a different perspective to decrease held biases, as well as adding a fact-checking feature.
+![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1yd8SEfd1M6tSY5J8pI_d9fMXS6LYsIkL/view?usp=sharing))
 
