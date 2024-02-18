@@ -1,0 +1,13 @@
+{
+  "name": "WebCrack",
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "description": "Crack down potential biases of webpages!",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png",
+    "default_title": "WebCrack?"
+  },
+  "author": "Team Eggs",
+  "permissions": ["scripting", "tabs"]
+}
